@@ -1,6 +1,6 @@
-package com.krakenrek.rigui.mixin;
+package com.krakenrek.rotatingitems.mixin;
 
-import com.krakenrek.rigui.ClientProxy;
+import com.krakenrek.rotatingitems.ClientProxy;
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.minecraft.client.renderer.MultiBufferSource;
 import net.minecraft.client.renderer.block.model.ItemTransforms;

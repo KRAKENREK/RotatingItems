@@ -1,6 +1,6 @@
-package com.krakenrek.rigui.mixin;
+package com.krakenrek.rotatingitems.mixin;
 
-import com.krakenrek.rigui.Config;
+import com.krakenrek.rotatingitems.Config;
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.client.gui.screens.inventory.AbstractContainerScreen;

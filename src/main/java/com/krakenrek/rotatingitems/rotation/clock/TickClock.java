@@ -1,4 +1,4 @@
-package com.krakenrek.rigui.rotation.clock;
+package com.krakenrek.rotatingitems.rotation.clock;
 
 public class TickClock extends AbstractRotationClock{
 

@@ -2,7 +2,7 @@ modLoader="javafml"
 loaderVersion="[43,)"
 license="All rights reserved"
 [[mods]]
-modId="rigui"
+modId="rotatingitems"
 version="1.19.2-1.0.0.0"
 displayName="RotatingItems"
 logoFile="logo.png"

@@ -1,8 +1,8 @@
 {
   "compatibilityLevel": "JAVA_17",
   "minVersion": "0.8.5",
-  "package": "com.krakenrek.rigui.mixin",
-  "refmap": "mixins.rigui.refmap.json",
+  "package": "com.krakenrek.rotatingitems.mixin",
+  "refmap": "mixins.rotatingitems.refmap.json",
   "required": true,
   "injectors": {
     "defaultRequire": 1

@@ -1,12 +1,12 @@
-package com.krakenrek.rigui;
+package com.krakenrek.rotatingitems;
 
-import com.krakenrek.rigui.rotation.clock.AbstractRotationClock;
-import com.krakenrek.rigui.rotation.clock.TickClock;
-import com.krakenrek.rigui.rotation.clock.TimeClock;
-import com.krakenrek.rigui.rotation.clock.TimeClockReverse;
-import com.krakenrek.rigui.rotation.controller.AbstractRotationController;
-import com.krakenrek.rigui.rotation.controller.GlobalRotation;
-import com.krakenrek.rigui.rotation.controller.HoveredRotation;
+import com.krakenrek.rotatingitems.rotation.clock.AbstractRotationClock;
+import com.krakenrek.rotatingitems.rotation.clock.TickClock;
+import com.krakenrek.rotatingitems.rotation.clock.TimeClock;
+import com.krakenrek.rotatingitems.rotation.clock.TimeClockReverse;
+import com.krakenrek.rotatingitems.rotation.controller.AbstractRotationController;
+import com.krakenrek.rotatingitems.rotation.controller.GlobalRotation;
+import com.krakenrek.rotatingitems.rotation.controller.HoveredRotation;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.fml.DistExecutor;

@@ -1,4 +1,4 @@
-package com.krakenrek.rigui.rotation.clock;
+package com.krakenrek.rotatingitems.rotation.clock;
 
 public abstract class AbstractRotationClock {
     protected float[] angles = new float[3];
