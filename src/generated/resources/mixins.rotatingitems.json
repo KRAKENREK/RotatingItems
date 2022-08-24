@@ -12,8 +12,6 @@
     "AbstractContainerScreenMixin"
   ],
   "client": [
-    "ItemRendererMixin",
-    "AbstractContainerScreenMixin"
   ],
   "server": [
   ]
