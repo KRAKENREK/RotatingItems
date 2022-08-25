@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[43,)"
-license="GNU General Public License v3.0"
+license="MIT"
 [[mods]]
 modId="rotatingitems"
 version="1.19.2-1.0.0.0"
